@@ -1,12 +1,5 @@
 # 👋 Hi, I'm Alhajjy
 
-I'm a passionate developer focused on creating clean, modern, scalable, mentainable desktop applications.
-I enjoy working with new technologies, learning continuously, and building useful digital experiences.
-
----
-
----
-
 ### 👨‍💻 About Me
 
 I'm a passionate software developer deeply committed to mastering programming fundamentals and strengthening logical problem-solving skills. I believe in writing clean, maintainable, and scalable code through disciplined engineering practices and modern software design principles.
