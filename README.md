@@ -43,7 +43,7 @@ I’m continuously learning—not only new technologies, but also how to manage 
   <a href="mailto:muhammedhacci2@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-<a href="https://t.me/AGuyFromLevant">
+<a href="https://t.me/alhajjmhmd">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 </p>
