@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alhajjy
+# 👋 Hi, I'm Mohammad Alhajjy
 
 ### 👨‍💻 About Me
 
@@ -26,7 +26,8 @@ I’m continuously learning—not only new technologies, but also how to manage 
 
 ## ⚙️ Tech Stack & Tools
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=abstract&logoColor=white) ![3-Tier Architecture](https://img.shields.io/badge/3--Tier_Architecture-007ACC?style=for-the-badge) ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ADO.NET](https://img.shields.io/badge/ADO%2ENET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Windows Forms](https://img.shields.io/badge/Windows_Forms-5C2D91?style=for-the-badge&logo=windows&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![.NET Framework](https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![ADO.NET](https://img.shields.io/badge/ADO%2ENET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![Windows Forms](https://img.shields.io/badge/Windows_Forms-5C2D91?style=for-the-badge&logo=windows&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=abstract&logoColor=white) ![3-Tier Architecture](https://img.shields.io/badge/3--Tier_Architecture-007ACC?style=for-the-badge)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
