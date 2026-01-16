@@ -39,7 +39,7 @@ I’m continuously learning—not only new technologies, but also how to manage 
 
 <p align="center">
   <a href="www.linkedin.com/in/muhammed-al-hajjy-73b43a393">
-  <img src="www.linkedin.com/in/muhammed-al-hajjy-73b43a393/" />
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
   <a href="https://github.com/Alhajjy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
