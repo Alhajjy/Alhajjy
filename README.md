@@ -38,10 +38,13 @@ I’m continuously learning—not only new technologies, but also how to manage 
 ## 🌐 Connect with Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/your-profile">
+  <img src="www.linkedin.com/in/muhammed-al-hajjy-73b43a393/" />
+</a>
   <a href="https://github.com/Alhajjy" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:muhammedhacci2@gmail.com">
+  <a href="mailto:muhammedalhajjy@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 <a href="https://t.me/alhajjmhmd">
