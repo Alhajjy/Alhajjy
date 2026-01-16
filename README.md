@@ -38,7 +38,7 @@ I’m continuously learning—not only new technologies, but also how to manage 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile">
+  <a href="www.linkedin.com/in/muhammed-al-hajjy-73b43a393">
   <img src="www.linkedin.com/in/muhammed-al-hajjy-73b43a393/" />
 </a>
   <a href="https://github.com/Alhajjy" target="_blank">
